@@ -1,6 +1,4 @@
-# SynthJail# SynthJail 🚀
-
-![SynthJail Banner](https://via.placeholder.com/1200x400.png?text=SynthJail+-+Unlock+the+Future)  
+# SynthJail 🚀
 
 **SynthJail** is a powerful CLI tool designed to interact with AI models using advanced jailbreaking prompts. It supports multiple AI platforms, including OpenAI, Claude AI, Gemini, and more, allowing users to push the boundaries of AI interaction.
 
